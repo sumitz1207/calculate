@@ -11,3 +11,5 @@ Usage
 ---
 
 `npm start`
+
+React, Typescript, and MongoDB
